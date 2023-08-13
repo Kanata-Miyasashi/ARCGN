@@ -1,0 +1,14 @@
+body{
+   font-family: 'Roboto Slab', serif;
+}
+
+#logo_wrn{
+   background-size: cover; 
+   height: 360px;
+   width: 360px;
+}
+
+h1{
+ font-weight: 600;  
+}
+
